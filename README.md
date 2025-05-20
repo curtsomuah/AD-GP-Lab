@@ -38,6 +38,7 @@ Lab Setup Steps
 
 4. Created Organizational Units and Users
 Created OU structure:
+
 home.lab1/
 
 └── Departments
