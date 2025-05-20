@@ -39,10 +39,15 @@ Lab Setup Steps
 4. Created Organizational Units and Users
 Created OU structure:
 home.lab1/
+
 └── Departments
+    
     └── IT
+    
     └── HR
+    
     └── Finance
+    
     └── Interns
 5. Applied Group Policy Objects (GPO)
 * Configured a GPO at the domain level to enforce:
